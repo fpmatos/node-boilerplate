@@ -1,0 +1,6 @@
+# diretório dos pacotes NPM
+node_modules
+
+# diretório da aplicação compilada
+dist
+
